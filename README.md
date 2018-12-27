@@ -4,7 +4,7 @@
 <html>
 
 <head>
-  <title>rown Bears</title>
+  <title>Brown Bears</title>
 </head>
 
 <body>
